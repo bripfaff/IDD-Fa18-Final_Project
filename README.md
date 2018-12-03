@@ -6,7 +6,7 @@ The uses uses different colored balls in order to draw.
 
 # Paper Prototype:
 
-![](proto1a.jpg | width=100)
+![]('proto1a.jpg' | width=100)
 ![](proto1b.jpg | width = 100)
 
 
