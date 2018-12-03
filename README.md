@@ -25,13 +25,13 @@ and either a:
 
 1. First connect the camera to the pi as seen in this [example](https://www.youtube.com/watch?v=PyGM4Iah0cM).
 2. After this power up the Raspberry Pi plug in your mouse, keyboard and monitor or ssh into the pi with your laptop. 
-3. Save these [files]() below to the pi in a file called BallArt
+3. Save this [file]() below to the pi in a file called Ball_Art_files
 4. Once in the pi, run these commands in the terminal to start the program.
 
 ``` 
-cd BallArt
+cd Ball_Art_files
 workon cv
-python Ball_Art.py
+python ballArt.py
 ```
 5. Draw to your hearts content and click q to save your image.
 6. Rerun ``` python Ball_Art.py ``` to start again.
