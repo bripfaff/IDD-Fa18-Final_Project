@@ -8,11 +8,7 @@ The uses uses different colored balls in order to draw
 
 1. Raspberry pi
 2. Raspberry pi camera 
-
-and either:
 3. Laptop
-
-or
 3. Monitor 
 4. Mouse
 5. Keyboard 
