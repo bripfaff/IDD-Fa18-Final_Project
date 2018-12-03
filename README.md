@@ -33,7 +33,8 @@ cd BallArt
 workon cv
 python Ball_Art.py
 ```
-5. Draw to your hearts content and click q to save your image. 
+5. Draw to your hearts content and click q to save your image.
+6. Rerun ``` python Ball_Art.py ``` to start again.
 
 Note: If you want a casing for the pi use this [SVG file](https://github.com/bripfaff/IDD-Fa18-Final_Project/blob/master/boxp1%20(1)%20(1).svg) as it is setup to work with the Raspberry pi 3, the camera and allow space for the HDMI, Mouse and keyboard USB plug-ins. 
 
