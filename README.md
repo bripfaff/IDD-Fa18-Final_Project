@@ -12,4 +12,7 @@ and either a:
 3. Monitor, Mouse and Keyboard or  
 4. Laptop
 
+# Setup: 
 
+First connect the camera to the pi as seen in the example below. 
+[Camera Installation Video](https://www.youtube.com/watch?v=PyGM4Iah0cM) 
