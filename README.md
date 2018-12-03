@@ -6,8 +6,8 @@ The uses uses different colored balls in order to draw.
 
 # Paper Prototype:
 
-![alt tag](proto1a.jpg | width=100)
-![alt tag](proto1b.jpg | width = 100)
+![](proto1a.jpg | width=100)
+![](proto1b.jpg | width = 100)
 
 
 # Needed parts:
