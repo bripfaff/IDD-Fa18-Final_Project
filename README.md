@@ -5,7 +5,7 @@ We are introducing a new way to think about and create art by incorporating huma
 
 # Paper Prototype:
 
-<img src='proto1a.jpg' width =200> <img src='proto1b.jpg' width =200>
+<img src='proto1a.jpg' width =300> <img src='proto1b.jpg' width =300>
 
 
 # Needed parts:
