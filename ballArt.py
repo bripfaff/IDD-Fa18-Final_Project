@@ -208,13 +208,19 @@ while True:
 	# show the frame to our screen
 
 	cv2.imshow("Frame", frame1)
-	key = cv2.waitKey(1) & 0xFF
+	key = cv2.waitKey(0) & 0xFF
 
 	# if the 'q' key is pressed, stop the loop
 	if key == ord("q"):
+		cv2.imwrite("my_art.jpg", frame1)
 		break
+	#
+	# elif key == ord("s"):
+	# 	print("reached here")
+	# 	cv2.imwrite("my_art.png",frame1)
 
 	fps.update()
+
 # if we are not using a video file, stop the camera video stream
 if not args.get("video", False):
 	vs.stop()
@@ -223,7 +229,12 @@ if not args.get("video", False):
 else:
 	vs.release()
 fps.stop()
+cv2.imwriter(r"./my_art.png",frame1)
 print("[INFO] elapsed time: {:.2f}".format(fps.elapsed()))
 print("[INFO] approx. FPS: {:.2f}".format(fps.fps()))
+
+# time.sleep(20.0)
+
 # close all windows
+
 cv2.destroyAllWindows()
