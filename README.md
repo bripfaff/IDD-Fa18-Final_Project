@@ -7,6 +7,9 @@ We are introducing a new way to think about and create art by incorporating huma
 
 <img src='proto1a.jpg' width =300> <img src='proto1b.jpg' width =300>
 
+# State Diagrams:
+
+
 
 # Needed parts:
 
@@ -32,3 +35,7 @@ python Ball_Art.py
 
 Note: If you want a casing for the pi use this [SVG file](https://github.com/bripfaff/IDD-Fa18-Final_Project/blob/master/boxp1%20(1)%20(1).svg) as it is setup to work with the Raspberry pi 3, the camera and allow space for the HDMI, Mouse and keyboard USB plug-ins. 
 
+# Project Code:
+[Ball_Art Code]()
+
+# Final Video:
