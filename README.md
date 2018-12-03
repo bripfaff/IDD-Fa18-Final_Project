@@ -2,7 +2,7 @@
 Interactive Art by Karim Arem and Brian Pfaff.
 
 We are introducing a new way to think about and create art by incorporating human movement and arm actions. 
-The uses uses different colored balls in order to draw asdfasd
+The uses uses different colored balls in order to draw 
 
 # Needed parts:
 
