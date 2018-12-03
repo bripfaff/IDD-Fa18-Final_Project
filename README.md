@@ -25,7 +25,7 @@ and either a:
 
 1. First connect the camera to the pi as seen in this [example](https://www.youtube.com/watch?v=PyGM4Iah0cM).
 2. After this power up the Raspberry Pi plug in your mouse, keyboard and monitor or ssh into the pi with your laptop. 
-3. Save this [file]() below to the pi in a file called Ball_Art_files
+3. Save this [file](https://github.com/bripfaff/IDD-Fa18-Final_Project/blob/master/ballArt.py) below to the pi in a file called Ball_Art_files
 4. Once in the pi, run these commands in the terminal to start the program.
 
 ``` 
@@ -38,7 +38,7 @@ python ballArt.py
 
 Note: If you want a casing for the pi use this [SVG file](https://github.com/bripfaff/IDD-Fa18-Final_Project/blob/master/boxp1%20(1)%20(1).svg) as it is setup to work with the Raspberry pi 3, the camera and allow space for the HDMI, Mouse and keyboard USB plug-ins. 
 
-# [Project Code]()
+# [Project Code](https://github.com/bripfaff/IDD-Fa18-Final_Project/blob/master/ballArt.py)
 
 
 # [Final Video]()
