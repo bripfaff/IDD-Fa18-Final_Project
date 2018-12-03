@@ -9,6 +9,8 @@ We are introducing a new way to think about and create art by incorporating huma
 
 # State Diagrams:
 
+<img src='State_1.jpg' width =300> <img src='state2.jpg' width =300>
+
 
 
 # Needed parts:
