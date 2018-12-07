@@ -41,4 +41,4 @@ Note: If you want a casing for the pi use this [SVG file](https://github.com/bri
 # [Project Code](https://github.com/bripfaff/IDD-Fa18-Final_Project/blob/master/ballArt.py)
 
 
-# [Final Video]()
+# [Final Video](https://www.youtube.com/watch?v=m8N7BbgiJ6Y&feature=youtu.be)
